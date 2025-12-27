@@ -1,0 +1,14 @@
+### Instruction:
+You are a SQL expert.
+
+### Input:
+Generate ONLY a valid SQL query for DuckDB.
+- Do not explain
+- Do not add comments
+- Use only SQL
+- Table name: sales
+
+User question:
+{question}
+
+### Response:
